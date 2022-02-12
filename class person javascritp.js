@@ -1,0 +1,3 @@
+person.rototype.walk =function (){
+    
+}
